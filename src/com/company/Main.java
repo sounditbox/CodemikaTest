@@ -10,6 +10,7 @@ public class Main {
         // git flow
         Greeter.greet("Ruslan");
         Goodbyer.goodBye("Ruslan");
+        Goodbyer.goodBye("Vadim");
 
     }
 }
