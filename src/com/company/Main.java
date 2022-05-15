@@ -8,8 +8,8 @@ public class Main {
         // commit, branch,  push, pull, (merge, checkout, fork)
         // github, gitlab
         // git flow
-        System.out.println("Hello world!");
-        System.out.println("Yeah, hello everyone!");
+        Greeter.greet("Ruslan");
+        Goodbyer.goodBye("Ruslan");
 
     }
 }
